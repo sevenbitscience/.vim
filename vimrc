@@ -10,5 +10,4 @@ source ~/.vim/backups.vim
 " Plugins I use
 source ~/.vim/airlinerc.vim
 source ~/.vim/ycmrc.vim
-source ~/.vim/llamarc.vim
 

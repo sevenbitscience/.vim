@@ -4,9 +4,6 @@
 [submodule "pack/plugins/start/vim-airline-themes"]
 	path = pack/plugins/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
-[submodule "pack/plugins/start/llama.vim"]
-	path = pack/plugins/start/llama.vim
-	url = https://github.com/ggml-org/llama.vim
 [submodule "pack/plugins/start/YouCompleteMe"]
 	path = pack/plugins/start/YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe.git
